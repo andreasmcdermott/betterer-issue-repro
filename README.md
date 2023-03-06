@@ -1,3 +1,2 @@
-# betterer-issue-repro
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-inttsb)
+- Run `yarn betterer` to see error.
+- Change `preserveValueImports` to `false` in `tsconfig.json` and then re-run previous step - it will now succeed.
